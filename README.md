@@ -7,15 +7,14 @@ This project is an authentication and user management service built using the Sp
 ### 1. **Run the Application in Your IDE**
 
    - Open the project in your preferred IDE (e.g., IntelliJ IDEA).
-   - Make sure you have Java 17+ installed.
-   - Run the `SpringBootApplication` class or the main application file.
+   - Run the main application file.
      
 
 ---
 
 ### 2. **Open Postman to Test the API**
 
-   - Open Postman (you can download it from [here](https://www.postman.com/downloads/)).
+   - Open Postman
    - Set the URL to `http://localhost:8080` to connect to your locally running Spring Boot application.
 
 
