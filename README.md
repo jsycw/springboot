@@ -1,4 +1,4 @@
-# springboot
+# Microservices - Springboot
 
 This project is an authentication and user management service built using the Spring Boot framework. It uses JWT (JSON Web Tokens) and Spring Security for secure user authentication and authorization. The service provides RESTful API endpoints to perform CRUD (Create, Read, Update, Delete) operations on user data.
 
